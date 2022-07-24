@@ -1,0 +1,12 @@
+1.I Have Wake Up.
+2.If I Will eat Breakfast, Maybe I Will Have a Shower.
+3.If I Will Not Have Breakfast, I Will Go Sleep Again.
+4.If I Had A Shower, Maybe I Will Go Out.
+5.If I Did Not Take A Shower, Maybe I Will Study Porgraming Language.
+6.If I Went Out I Will See My Friends.
+7.If I Did Not Go Out I Will Stay At My Home.
+8.If I Will Study Porgraming Language I Will Practice On C Language.
+9.If I Will Not Study Porgraming Language Maybe I Will Play Games.
+10.If I Decided To Play Games I Will Play Some PC Games.
+11.If I Will Not Paly Games I Prefer To Watch Netflix.
+12.End
